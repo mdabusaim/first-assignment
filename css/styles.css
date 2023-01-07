@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans';
+
+}
+
+.backgrouond-image {
+    background-image: url(/images/banner/banner2.png);
+    width: 1600px;
+    height: 800px;
+}
+
+/* Header Section */
+.header {
+    color: #151414;
+    text-align: right;
+    font-size: 65px;
+    padding-top: 200px;
+    padding-left: 600px;
+    padding-right: 300px;
+}
+
+.description {
+    font-size: 16px;
+    text-align: right;
+    margin-top: 20px;
+    padding-left: 800px;
+    padding-right: 300px;
+    padding-bottom: 20px;
+}
+
+.btn-primary {
+    text-align: bottom right;
+    color: #FFFFFF;
+    font-weight: 700;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    margin-left: 1160px;
+}
+
+/* middel section */
+
+.mid {
+    text-align: center;
+    font-weight: 200;
+    font-size: 30px;
+    margin: 300px 700px;
+}
+
+.mid-description {
+    padding-top: 24px;
+    margin-left: 40px;
+    font-weight: 300;
+    font-size: 16px
+}
+
+.list {
+
+    padding-top: 10px;
+    margin-left: 100px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 36px;
+}
+
+.pic {
+    position: absolute;
+    width: 569px;
+    left: 200px;
+    top: 900px;
+    right: 50px;
+}
+
+.section-title {
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 50px;
+    margin-top: 150px;
+    gap: 24px;
+}
+
+
+/* my plans  */
+.what-i-do {
+    margin-top: 130px;
+    position: center;
+
+}
+
+.skills-container {
+    display: flex;
+    gap: 24px;
+    padding: 00px 500px;
+
+}
+
+.skill {
+    background: #FFFFFF;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.skill-title {
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.skill-description {
+    font-weight: 400;
+    font-size: 16px;
+
+}
+
+.bg-image {
+    background-image: url(/images/gradient2.png);
+    background-repeat: no-repeat;
+    height: 50vh;
+    color: white;
+    font-size: 20px;
+    margin: 50px 200px;
+    padding-top: 80px;
+    padding-left: 64px;
+
+
+}
+
+.btn {
+    font-family: 'Work Sans';
+    font-size: 20px;
+    color: #F15B22;
+    height: 64px;
+    left: 294px;
+    padding: 20px 30px;
+    margin-top: 10px;
+    border: 0px;
+}
+
+/*  Footer section */
+
+.contact {
+    display: flex;
+    gap: 400px;
+    background-color: wheat;
+    padding: 30px 100px;
+}
+
+.contact .section-title {
+    text-align: left;
+    width: 100%;
+    padding-bottom: 20px;
+    margin-right: 100px;
+}
+
+.contact {
+    margin-bottom: 15px;
+    border: 0;
+
+}
+
+input {
+    padding-left: 20px;
+    height: 24px;
+}
+
+.contact a {
+    text-decoration: none;
+}
+
+.section-description {
+    width: 100%;
+    padding-bottom: 20px;
+
+}
