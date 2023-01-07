@@ -5,7 +5,7 @@
 }
 
 .backgrouond-image {
-    background-image: url(/images/banner/banner2.png);
+    background-image: url(../images/banner/banner2.png);
     width: 1600px;
     height: 800px;
 }
@@ -117,7 +117,7 @@
 }
 
 .bg-image {
-    background-image: url(/images/gradient2.png);
+    background-image: url(../images/gradient2.png);
     background-repeat: no-repeat;
     height: 50vh;
     color: white;
